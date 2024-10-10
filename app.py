@@ -1209,7 +1209,7 @@ if submit and instruction:
     st.code(sql_query, language='sql')
     
     # Detect if the query is potentially destructive
-    destructive_commands = ['INSERT', 'UPDATE', 'DELETE']
+    destructive_commands = [ 'DELETE']
     query_type = sql_query.strip().split()[0].upper()
     
     if query_type in destructive_commands:
