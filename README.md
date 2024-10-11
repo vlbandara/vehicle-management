@@ -32,11 +32,7 @@ Welcome to the Vehicle Management App! This application allows vehicle owners to
 - **Form Filling:** Extracts structured data from natural language instructions to fill forms.
 - **Secure Operations:** Prevents execution of potentially destructive SQL commands.
 
-## Demo
 
-![App Screenshot](path_to_screenshot.png)
-
-*Insert a screenshot or GIF of the application in action here.*
 
 ## Technology Stack
 
